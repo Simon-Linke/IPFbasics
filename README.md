@@ -9,6 +9,11 @@ The PureData patches can be used to introduce real-time synthesis utilizing the 
 
 Further applications (mainly for sonification) are shown in another repository: https://github.com/Simon-Linke/IPF-Sonification-PD
 
+### Funding
+
+This research was funded under the Program "Innovative Hochschule" (innovative university) by the Federal Ministry of Education and Research (BMBF) of Germany and the City of Hamburg (Grant No. 13IHS232C).
+
+
 ## References
 
 <a id="1">[1]</a> 
