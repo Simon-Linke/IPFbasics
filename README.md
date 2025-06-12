@@ -5,7 +5,7 @@ The Julia scripts can be used to investigate the mathematical behavior of the IP
 
 The Python scripts allow the first approaches in using the IPF as a (non-real-time) Synthesizer.
 
-The PureData patches can be used to introduce real-time synthesis utilizing the IPF.
+The PureData and MaxMSP patches can be used to introduce real-time synthesis utilizing the IPF.
 
 Further applications (mainly for sonification) are shown in another repository: https://github.com/Simon-Linke/IPF-Sonification-PD
 
