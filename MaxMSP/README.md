@@ -1,4 +1,4 @@
-# PureData patches
+# MaxMSP patches
 
 The MaxMSP patches can be used for real-time synthesis utilizing the IPF.
 
